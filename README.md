@@ -42,3 +42,11 @@ It covers data cleaning, exploration, feature engineering, model building, and e
 
 - Accuracy: 100% (on current split)
 - Evaluated with classification report (precision, recall, F1-score)
+
+
+## How to Run
+
+1. Clone this repo
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
